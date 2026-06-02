@@ -32,7 +32,7 @@ Key Insights:
 
 Dashboard Preview
 
-![Hotel Performance Analysis](Images/hotel_performance_dashboard.png)
+![Hotel Performance Analysis](Images/hotel_performance_dashboard.jpg)
 
 ---
 
