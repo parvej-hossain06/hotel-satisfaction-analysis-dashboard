@@ -48,8 +48,7 @@ Key Insights:
 
 Dashboard Preview
 
-![Customer Segment Analysis](Dashboard_Images/Customer Segment Analysis.jpg)
-
+![Customer Segment Analysis](Dashboard_Images/customer_segment_analysis.png)
 ---
 
 Hotel Satisfaction & Value Dashboard
