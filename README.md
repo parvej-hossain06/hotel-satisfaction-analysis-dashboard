@@ -93,28 +93,6 @@ Dashboard Preview
 
 ---
 
-📂 Project Structure
-
-```text
-Hotel-Satisfaction-Analysis/
-│
-├── Dashboard/
-│   └── Hotel_Satisfaction_Analysis.pbix
-│
-├── Dataset/
-│   └── hotel_reviews.csv
-│
-├── Images/
-│   ├── hotel_performance_dashboard.png
-│   ├── customer_segment_analysis.png
-│   └── hotel_satisfaction_value_dashboard.png
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 🔍 Analysis Highlights
 
 Traveler Type Analysis
